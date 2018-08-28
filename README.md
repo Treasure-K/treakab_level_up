@@ -1,2 +1,2 @@
-# treakab_level_up
+# trekab_level_up
 Andela level up program
